@@ -1,0 +1,11 @@
+[
+    {
+        "PreviosMarketMoodIndex": "30.36",
+        "CurrentMarketMoodIndex": "32.13",
+        "currentMarketStatus": "Fear"
+    },
+    {
+        "advance": "1139",
+        "decline": "862"
+    }
+]
